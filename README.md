@@ -1,2 +1,8 @@
-# cyclelister
-Cycle Rent App, where users can rent their bicycles and can rent those bicycles with a fare calculated according to the time till returned.
+# CycleLister
+
+## My First ever Project
+
+
+#### Made With no Prior Knowlegde of web design and programming
+#### Made using LAMP stack (PHP 5)
+#### Website Online at 000.webhostapp (Unreliable)
