@@ -43,7 +43,7 @@
 
 	</div>
 	<footer id="foot">
-		<div id="footer">Project Made by Adithya,Alim and Chinmay for DBMS course,2018,VIT&trade;
+		<div id="footer">Project Made by Adithya,Alim, Chinmay and AbssZy for DBMS course,2018,VIT&trade;
 		</div>
 	</footer>
 </body>
