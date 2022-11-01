@@ -29,7 +29,7 @@
 			<h1>Welcome to Cycle-Lister VIT&trade;</h1>
 		</div>
 		<div id="choices">
-			<p>Select your service</p>
+			<p>Select your service!</p>
 			<div id="Sponsor_button">
 				<a href="Sponsor_portal/login_spons.php" target="_self" class="button">Sponsor</a>
 			</div>
@@ -43,7 +43,7 @@
 
 	</div>
 	<footer id="foot">
-		<div id="footer">Project Made by Adithya,Utkarsh and Chinmay for DBMS course,2018,VIT&trade;
+		<div id="footer">Project Made by Adithya,Alim and Chinmay for DBMS course,2018,VIT&trade;
 		</div>
 	</footer>
 </body>

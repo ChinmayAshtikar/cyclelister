@@ -50,10 +50,10 @@
 					<?php
 					if(isset($_SESSION['curr_cycle']))
 					{
-						echo "The cycle you currently Rented is: ".$_SESSION['curr_cycle'];
+						echo "Currently Rented Cycle: ".$_SESSION['curr_cycle'];
 					}
 					else {
-						echo "You currently have not Rented any Cycle! Go for a ride!";
+						echo "No Rented Cycles! Rent one and go for a ride!";
 					}
 					?>
 				</p>
